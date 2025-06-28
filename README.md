@@ -1,6 +1,6 @@
 # 📊 Sorting Algorithm Visualizer
 
-A dynamic web-based visualizer to demonstrate how sorting algorithms work using animated bars. Built using **HTML**, **CSS**, and **Vanilla JavaScript**.
+A dynamic web-based visualizer to demonstrate how sorting algorithms work using animated bars. Built using **HTML**, **CSS**, and **JavaScript**.
 
 ---
 
