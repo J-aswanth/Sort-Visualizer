@@ -31,8 +31,3 @@ A dynamic web-based visualizer to demonstrate how sorting algorithms work using 
 - JavaScript (ES6)
 
 ---
-
-
-- 💼 GitHub: [yourusername](https://github.com/yourusername)
-- 📧 Email: yourname@example.com
-
